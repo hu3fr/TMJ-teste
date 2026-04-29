@@ -815,12 +815,76 @@
         "": "/proxy/api/imgchest/chapter/wl7ldmgg6yx"
       }
     },
+    "102": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "1777464226",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/o24aoklg2yl"
+      }
+    },
     "42.5": {
       "title": "",
       "volume": "1",
       "last_updated": "1777426913",
       "groups": {
         "": "/proxy/api/imgchest/chapter/vj4jjwogx48"
+      }
+    },
+    "100.1": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1777464103",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/o24aoklx2yl"
+      }
+    },
+    "100.2": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1777464125",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/lqyeoprjq4d"
+      }
+    },
+    "100.3": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1777464138",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/a846zgmroyx"
+      }
+    },
+    "100.4": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1777464151",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/bp45edrkq45"
+      }
+    },
+    "100.5": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1777464165",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ljyqedbgny2"
+      }
+    },
+    "100.6": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1777464180",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/6eyrzdb2g7p"
+      }
+    },
+    "100.7": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1777464200",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ej7mr25nn4d"
       }
     }
   }
