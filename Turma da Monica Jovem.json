@@ -1199,6 +1199,78 @@
         "": "/proxy/api/imgchest/chapter/m9yxl2mjmyq"
       }
     },
+    "149": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "1777512970",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/dl7pw9vzkyo"
+      }
+    },
+    "150": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "1777512987",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/9p4nmxnllyn"
+      }
+    },
+    "151": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "1777513000",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/92495gvjayn"
+      }
+    },
+    "152": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "1777513025",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/md7o3x9j97p"
+      }
+    },
+    "153": {
+      "title": "",
+      "volume": "3",
+      "last_updated": "1777513094",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/vj4jjv9v548"
+      }
+    },
+    "154": {
+      "title": "",
+      "volume": "3",
+      "last_updated": "1777513109",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/wl7ldrgxoyx"
+      }
+    },
+    "156": {
+      "title": "",
+      "volume": "3",
+      "last_updated": "1777513139",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/5xy2m3ap87l"
+      }
+    },
+    "157": {
+      "title": "",
+      "volume": "3",
+      "last_updated": "1777513158",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ljyqezx9xy2"
+      }
+    },
+    "158": {
+      "title": "",
+      "volume": "3",
+      "last_updated": "1777513171",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/agyvawqwzy8"
+      }
+    },
     "42.5": {
       "title": "",
       "volume": "1",
@@ -1261,6 +1333,14 @@
       "last_updated": "1777464200",
       "groups": {
         "": "/proxy/api/imgchest/chapter/ej7mr25nn4d"
+      }
+    },
+    "152.5": {
+      "title": "",
+      "volume": "3",
+      "last_updated": "1777513071",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/md7o3x9x97p"
       }
     }
   }
